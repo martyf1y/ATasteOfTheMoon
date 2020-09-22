@@ -1,4 +1,4 @@
 # ATasteOfTheMoon
-Port from processing to OF of Media on the Moon. Not likely working
+Port from processing to OF of Media on the Moon. Not likely working the same way.
 
 Made in of_270617_osx_release. Last edit 08.07.2017. Will need JSON/twitter credentials
